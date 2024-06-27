@@ -1,0 +1,4 @@
+Tipo,Quantidade
+Apontamento Resolvido,121
+Sem Apontamento,79
+Pendente,24

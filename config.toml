@@ -1,0 +1,5 @@
+[server]
+allowServingRemotely = true
+
+[theme]
+base="light"
